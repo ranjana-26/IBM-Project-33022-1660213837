@@ -1,9 +1,10 @@
 # IBM-Project-33022-1660213837
-Airlines Data Analytics for Avaition Industry
-![image](https://user-images.githubusercontent.com/82028817/198534166-1e9bd3e0-816f-4db2-9928-9f0aca03f82b.png)
-TECHNOLOGY : data Analytics
+Airlines Data Analytics for Avaition Industry<br>
+TECHNOLOGY : data Analytics<br>
+![image](https://user-images.githubusercontent.com/82028817/198535002-65f35b3d-d3ce-40e1-88de-12d70706a337.png)
+<br>
 TEAM :
-TEAM LEADER : Sathyasri
-TEAM MEMBER 1 : Ranjana
-TEAM MEMBER 2 : Yukesh
-TEAM MEMBER 3 : Surya
+<br>TEAM LEADER : Sathyasri
+<br>TEAM MEMBER 1 : Ranjana
+<br>TEAM MEMBER 2 : Yukesh
+<br>TEAM MEMBER 3 : Surya
